@@ -1,4 +1,4 @@
 #### Name: [ABY STALIN](https://github.com/Alby0n/)
-- Place: Poland
-- Bio: second year Computer Science Student, in love with NYC <3
+- Place: Trivandrum,Kerala
+- Bio: third year B.Tech Computer Science A.I. Student, in love with photographing emotions rather than people
 - GitHub: [Alby0n](https://github.com/Alby0n/)
