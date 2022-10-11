@@ -17,3 +17,8 @@
 - Place: Indore, Madhya Pradesh, India
 - Bio: Second Year B.Tech. CSE from AITR-Indore, love frontend and gonna pursue web development in future
 - GitHub: [aayushhehe]([GitHub link](https://github.com/aayushhehe))
+
+#### Name: [Gaurav Sharma](https://www.linkedin.com/in/gaurav021201/)
+- Place: Delhi, India
+- Bio: Student at Amrita School of Engineering
+- GitHub: [grvsh02](https://github.com/grvsh02)
