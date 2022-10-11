@@ -9,3 +9,8 @@
 - [Instagram](https://www.instagram.com/rizwan.nizarudin_/)
 - [Linkedin](https://www.linkedin.com/in/rizwan-nizarudin-3601b91b1/)
 - [GitHub](https://github.com/StuntStorm)
+
+### Devakrishna Sanil Kumar
+- [Instagram](https://www.instagram.com/leviathan_2003/)
+- [Linkedin](www.linkedin.com/in/devakrishna-sanil-kumar-326b5a227)
+- [GitHub](https://github.com/Devakrishna-Sanil-Kumar)
