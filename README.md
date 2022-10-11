@@ -29,6 +29,15 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
 ```
+### 2. Add your socials
+Add your socials to the `PROFILES.md` file using the below convention:
+
+```markdown
+### YOUR NAME HERE
+- [Instagram](Instagram Link)
+- [Linkedin](Linkedin Link)
+- [GitHub](GitHub Link)
+```
 
 # Contribution rules
 
