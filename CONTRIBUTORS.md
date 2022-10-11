@@ -17,3 +17,8 @@
 - Place: Indore, Madhya Pradesh, India
 - Bio: Second Year B.Tech. CSE from AITR-Indore, love frontend and gonna pursue web development in future
 - GitHub: [aayushhehe]([GitHub link](https://github.com/aayushhehe))
+
+#### Name: [Devakrishna Sanil Kumar](www.linkedin.com/in/devakrishna-sanil-kumar-326b5a227)
+- Place: Kottayam, Kerala
+- Bio: Third Year B.Tech Computer Science A.I. Student, 
+- GitHub: [Devakrishna-Sanil-Kumar](https://github.com/Devakrishna-Sanil-Kumar/)
