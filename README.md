@@ -50,8 +50,9 @@ Complete Hacktoberfest can elect to receive one of two prizes: a tree planted in
 - Styling / code can be pretty, ugly or stupid, big or small as long as it works
 - Follow the Guide
 
+# Top Contributors
 <a href="https://github.com/ACM-Amrita-Amritapuri/thats-what-C-said-about-my-PyPy/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ACM-Amrita-Amritapuri/thats-what-C-said-about-my-PyPy" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
