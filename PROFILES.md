@@ -12,5 +12,5 @@
 
 ### Adithyan M Nair
 - [Instagram](https://www.instagram.com/h.a.rlem/)
-- [Linkedin](www.linkedin.com/in/adithyan-m-nair-77933721b/)
+- [Linkedin](www.linkedin.com/in/adithyan-m-nair-77933721b)
 - [GitHub](https://github.com/Adithyan-m-n)
