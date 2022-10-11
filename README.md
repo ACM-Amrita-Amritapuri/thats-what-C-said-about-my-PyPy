@@ -13,12 +13,6 @@ Here are 3 quick and painless ways to contribute to this project:
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 P.S. Star ⭐ and Share this repository. 😍
 
-Hacktoberfest 2022
-![Uploading image.png…](https://github.com/fineanmol/Hacktoberfest2022/raw/master/scripts/Event_Completed_.png)
-Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
-
-Complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
-
 ## Choose from these tasks
 ### 1. Add your name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
@@ -38,6 +32,13 @@ Add your socials to the `PROFILES.md` file using the below convention:
 - [Linkedin](Linkedin Link)
 - [GitHub](GitHub Link)
 ```
+
+
+Hacktoberfest 2022
+![Uploading image.png…](https://github.com/fineanmol/Hacktoberfest2022/raw/master/scripts/Event_Completed_.png)
+Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
+
+Complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
 # Contribution rules
 
