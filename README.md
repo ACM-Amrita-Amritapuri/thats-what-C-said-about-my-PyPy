@@ -33,6 +33,8 @@ Add your socials to the `PROFILES.md` file using the below convention:
 - [GitHub](GitHub Link)
 ```
 
+### 3. Upload your code files to the respective folders
+You can upload any of your program files in the respective language folders (Python files in the folder 'Python Programs' etc).
 
 Hacktoberfest 2022
 ![Uploading image.png…](https://github.com/fineanmol/Hacktoberfest2022/raw/master/scripts/Event_Completed_.png)
