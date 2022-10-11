@@ -19,6 +19,17 @@ Have 4 pull/merge requests accepted between October 1 and October 31 to complete
 
 Complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
+## Choose from these tasks
+### 1. Add your name
+Add your name to the `CONTRIBUTORS.md` file using the below convention:
+
+```markdown
+#### Name: [YOUR NAME](Linkedin link)
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+```
+
 # Contribution rules
 
 - Do 🌟 the Project
