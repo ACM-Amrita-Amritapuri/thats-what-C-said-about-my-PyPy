@@ -7,3 +7,8 @@
 - Place: Trivandrum,Kerala
 - Bio: Second Year BCA Computer Science Student, in love with people rather than emotions and photography
 - GitHub: [StuntStorm](https://github.com/StuntStorm/)
+
+#### Name: [AKSHIT S KUMAR](https://www.linkedin.com/in/akshit-sk/)
+- Place: Thrissur, Kerala
+- Bio: Third Year BTech AI Computer Science Student in love with both people and emotions, not photography tho
+- GitHub: [StuntStorm](https://github.com/4k5h1t/)
