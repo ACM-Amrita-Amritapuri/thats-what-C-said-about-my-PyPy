@@ -12,3 +12,8 @@
 - Place: Thrissur, Kerala
 - Bio: Third Year BTech AI Computer Science Student in love with both people and emotions, not photography tho
 - GitHub: [4k5h1t](https://github.com/4k5h1t/)
+
+#### Name: [AAYUSH BATHAM]([Linkedin link](https://www.linkedin.com/in/aayush-batham-72686923a/))
+- Place: Indore, Madhya Pradesh, India
+- Bio: Second Year B.Tech. CSE from AITR-Indore, love frontend and gonna pursue web development in future
+- GitHub: [aayushhehe]([GitHub link](https://github.com/aayushhehe))
