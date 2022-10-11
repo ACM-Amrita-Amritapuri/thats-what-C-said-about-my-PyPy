@@ -7,7 +7,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 Here are 3 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
-* Add a profile page to the `profiles` directory
+* Add a profile page to the `profiles.md` directory
 * Create a simple script in a language of your choice and put it into their respective folders
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
