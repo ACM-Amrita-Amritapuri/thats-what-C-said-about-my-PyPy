@@ -9,3 +9,8 @@
 - [Instagram](https://www.instagram.com/rizwan.nizarudin_/)
 - [Linkedin](https://www.linkedin.com/in/rizwan-nizarudin-3601b91b1/)
 - [GitHub](https://github.com/StuntStorm)
+
+### [Adithyan M Nair]
+- [Instagram](https://www.instagram.com/h.a.rlem/)
+- [Linkedin](www.linkedin.com/in/adithyan-m-nair-77933721b/)
+- [GitHub](https://github.com/Adithyan-m-n)
