@@ -18,3 +18,11 @@ Hacktoberfest 2022
 Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
 
 Complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
+
+# Contribution rules
+
+- Do 🌟 the Project
+- Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
+- Do NOT remove Videos, Rules, FAQs or any other helpful content.
+- Styling / code can be pretty, ugly or stupid, big or small as long as it works
+- Follow the Guide
