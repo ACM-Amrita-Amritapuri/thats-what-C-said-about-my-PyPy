@@ -20,3 +20,8 @@
 - [Linkedin](www.linkedin.com/in/devakrishna-sanil-kumar-326b5a227)
 - [GitHub](https://github.com/Devakrishna-Sanil-Kumar)
 
+### Saumy Shukla
+- [Instagram](https://www.instagram.com/saumyxshukla/)
+- [Linkedin](https://www.linkedin.com/in/saumy-shukla-211a25240/)
+- [GitHub](https://github.com/saumy4854)
+
