@@ -18,6 +18,27 @@
 - Bio: Second Year B.Tech. CSE from AITR-Indore, love frontend and gonna pursue web development in future
 - GitHub: [aayushhehe]([GitHub link](https://github.com/aayushhehe))
 
+
+#### Name: [Devakrishna Sanil Kumar](www.linkedin.com/in/devakrishna-sanil-kumar-326b5a227)
+- Place: Kottayam, Kerala
+- Bio: Third Year B.Tech Computer Science A.I. Student, 
+- GitHub: [Devakrishna-Sanil-Kumar](https://github.com/Devakrishna-Sanil-Kumar/)
+
+#### Name: [Adithyan M Nair](www.linkedin.com/in/adithyan-m-nair)
+- Place: Ernakulam, Kerala
+- Bio: Third Year B.Tech Computer Science A.I. Student with interest in music, movies, gaming and drawing.
+- GitHub: [Adithyan-m-n](https://github.com/Adithyan-m-n/)
+
+#### Name: [M. Snehashish Reddy](https://www.linkedin.com/in/ashishreddy9000/)
+- Place: Hyderabad, Telangana
+- Bio: Third Year B.Tech Computer Science Student. Looking to solve problems that don't have a solution yet.
+- GitHub: [ashishreddy9000](https://github.com/ashishreddy9000)
+
+#### Name: [Muhammed Shajahan](https://www.linkedin.com/in/muhammed-shajahan-796335222/)
+- Place: Ernakulam, Kerala
+- Bio: Second Year B.Tech Computer Science A.I. Student. I like movies, gaming, problem solving, etc.
+- GitHub: [Mindless-Magnet](https://github.com/Mindless-Magnet)
+
 #### Name: [Gaurav Sharma](https://www.linkedin.com/in/gaurav021201/)
 - Place: Delhi, India
 - Bio: Student at Amrita School of Engineering
