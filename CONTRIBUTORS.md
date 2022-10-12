@@ -38,3 +38,8 @@
 - Place: Ernakulam, Kerala
 - Bio: Second Year B.Tech Computer Science A.I. Student. I like movies, gaming, problem solving, etc.
 - GitHub: [Mindless-Magnet](https://github.com/Mindless-Magnet)
+
+#### Name: [Saumy Shukla](https://www.linkedin.com/in/saumy-shukla-211a25240/)
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: Second year B.Tech Electrical & Computer Engineering student. I like mathematics , movies, chess, badminton , problem solving etc.
+- GitHub: [saumy4854](https://github.com/saumy4854)
