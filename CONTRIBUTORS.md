@@ -33,3 +33,8 @@
 - Place: Hyderabad, Telangana
 - Bio: Third Year B.Tech Computer Science Student. Looking to solve problems that don't have a solution yet.
 - GitHub: [ashishreddy9000](https://github.com/ashishreddy9000)
+
+### Name: [Boudhik Shaj] (https://www.linkedin.com/in/boudhik-shaj-098a3b20b/)
+-Place: Ernakulam, Kerala
+-Bio: Third Year Computer Science Student. love to solve puzzles and do coding while listening to music.
+-Github: [Boudhik-Shaj](https://github.com/Boudhik-Shaj)
