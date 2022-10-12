@@ -33,3 +33,8 @@
 - Place: Hyderabad, Telangana
 - Bio: Third Year B.Tech Computer Science Student. Looking to solve problems that don't have a solution yet.
 - GitHub: [ashishreddy9000](https://github.com/ashishreddy9000)
+
+#### Name: [Muhammed Shajahan](https://www.linkedin.com/in/muhammed-shajahan-796335222/)
+- Place: Ernakulam, Kerala
+- Bio: Second Year B.Tech Computer Science A.I. Student. I like movies, gaming, problem solving, etc.
+- GitHub: [Mindless-Magnet](https://github.com/Mindless-Magnet)
