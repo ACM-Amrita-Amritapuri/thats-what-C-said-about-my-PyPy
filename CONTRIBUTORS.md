@@ -38,8 +38,3 @@
 - Place: Ernakulam, Kerala
 - Bio: Second Year B.Tech Computer Science A.I. Student. I like movies, gaming, problem solving, etc.
 - GitHub: [Mindless-Magnet](https://github.com/Mindless-Magnet)
-
-#### Name: [Gaurav Sharma](https://www.linkedin.com/in/gaurav021201/)
-- Place: Delhi, India
-- Bio: Student at Amrita School of Engineering
-- GitHub: [grvsh02](https://github.com/grvsh02)
