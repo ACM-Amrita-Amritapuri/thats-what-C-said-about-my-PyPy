@@ -29,3 +29,7 @@
 - Bio: Third Year B.Tech Computer Science A.I. Student with interest in music, movies, gaming and drawing.
 - GitHub: [Adithyan-m-n](https://github.com/Adithyan-m-n/)
 
+#### Name: [M. Snehashish Reddy](https://www.linkedin.com/in/ashishreddy9000/)
+- Place: Hyderabad, Telangana
+- Bio: Third Year B.Tech Computer Science Student. Looking to solve problems that don't have a solution yet.
+- GitHub: [ashishreddy9000](https://github.com/ashishreddy9000)
