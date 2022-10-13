@@ -48,3 +48,8 @@
 - Place: Aracaju, Sergipe, Brasil
 - Bio: Chemical Engineer and Data Scientist focused on studying Deep Learning. I like to read good books and play chess.
 - GitHub: [lucasocarvalhos](https://github.com/lucasocarvalhos)
+
+#### Name: [Ruthvik Kanukunta](https://www.linkedin.com/in/ruthvik-kanukunta-7b3a62212/)
+- Place: Hyderabad, Telangana 
+- Bio Third Year B.Tech Computer Science Student. Exploring new stuff !!!
+- Github: [Ruthvik2127](https://github.com/Ruthvik2127)

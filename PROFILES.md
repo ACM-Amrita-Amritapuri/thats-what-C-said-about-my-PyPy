@@ -29,3 +29,8 @@
 - [Instagram](https://www.instagram.com/luscasoc/)
 - [Linkedin](https://www.linkedin.com/in/lucas-oliveirac/)
 - [GitHub](https://github.com/lucasocarvalhos)
+
+### Ruthvik Kanukunta
+- [Instagram](https://www.instagram.com/jonny_.blaze._/)
+- [Linkedin](https://www.linkedin.com/in/ruthvik-kanukunta-7b3a62212/)
+- [Github](https://github.com/Ruthvik2127)
