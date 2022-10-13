@@ -43,3 +43,8 @@
 - Place: Kanpur, Uttar Pradesh, India
 - Bio: Second year B.Tech Electrical & Computer Engineering student. I like mathematics , movies, chess, badminton , problem solving etc.
 - GitHub: [saumy4854](https://github.com/saumy4854)
+
+#### Name: [Lucas Carvalho](https://www.linkedin.com/in/lucas-oliveirac/)
+- Place: Aracaju, Sergipe, Brasil
+- Bio: Chemical Engineer and Data Scientist focused on studying Deep Learning. I like to read good books and play chess.
+- GitHub: [lucasocarvalhos](https://github.com/lucasocarvalhos)
