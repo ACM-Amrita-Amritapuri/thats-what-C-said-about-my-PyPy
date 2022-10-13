@@ -43,3 +43,8 @@
 - Place: Kanpur, Uttar Pradesh, India
 - Bio: Second year B.Tech Electrical & Computer Engineering student. I like mathematics , movies, chess, badminton , problem solving etc.
 - GitHub: [saumy4854](https://github.com/saumy4854)
+
+#### Name: [Ananthakrishnan S](https://www.linkedin.com/in/ananthakrishnan-s-41a820249)
+- Place: Thrissur,Kerala
+- Bio: Second Year CSE_AI Student . Love to create programs for automating simple day to day tasks and also love animals
+- GitHub: [God-Aks](https://github.com/God-Aks)
