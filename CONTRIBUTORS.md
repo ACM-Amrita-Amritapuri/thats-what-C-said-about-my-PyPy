@@ -53,3 +53,8 @@
 - Place: Hyderabad, Telangana 
 - Bio Third Year B.Tech Computer Science Student. Exploring new stuff !!!
 - Github: [Ruthvik2127](https://github.com/Ruthvik2127)
+
+#### Name: [Sudhin S](https://www.linkedin.com/in/sudhin-s/)
+- Place: Shoranur,Kerala
+- Bio: Third year B.Tech Computer Science A.I. Student, loves intelligent technologies 
+- GitHub: [Sudi050](https://github.com/sudi050/)
