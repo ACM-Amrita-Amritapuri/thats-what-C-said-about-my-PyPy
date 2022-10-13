@@ -25,3 +25,7 @@
 - [Linkedin](https://www.linkedin.com/in/saumy-shukla-211a25240/)
 - [GitHub](https://github.com/saumy4854)
 
+### Ruthvik Kanukunta
+- [Instagram](https://www.instagram.com/jonny_.blaze._/)
+- [Linkedin](https://www.linkedin.com/in/ruthvik-kanukunta-7b3a62212/)
+- [Github](https://github.com/Ruthvik2127)
