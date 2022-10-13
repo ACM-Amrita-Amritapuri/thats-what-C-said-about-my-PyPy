@@ -43,3 +43,8 @@
 - Place: Kanpur, Uttar Pradesh, India
 - Bio: Second year B.Tech Electrical & Computer Engineering student. I like mathematics , movies, chess, badminton , problem solving etc.
 - GitHub: [saumy4854](https://github.com/saumy4854)
+
+#### Name: [Ruthvik Kanukunta](https://www.linkedin.com/in/ruthvik-kanukunta-7b3a62212/)
+- Place: Hyderabad, Telangana 
+- Bio Third Year B.Tech Computer Science Student. Exploring new stuff !!!
+- Github: [Ruthvik2127](https://github.com/Ruthvik2127)
