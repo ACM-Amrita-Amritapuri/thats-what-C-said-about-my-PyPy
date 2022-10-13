@@ -1,8 +1,5 @@
 # Add your Social Media handles here :D
 
-#### Name: [Asifur Rahman](https://www.linkedin.com/in/asifurrahmanpial/)
-- GitHub: [asifurrahmanpial]
-
 ### Akshit S Kumar
 - [Instagram](https://www.instagram.com/akshit_1602/)
 - [Linkedin](https://www.linkedin.com/in/akshit-sk/)
@@ -28,3 +25,5 @@
 - [Linkedin](https://www.linkedin.com/in/saumy-shukla-211a25240/)
 - [GitHub](https://github.com/saumy4854)
 
+#### Name: [Asifur Rahman](https://www.linkedin.com/in/asifurrahmanpial/)
+- GitHub: [asifurrahmanpial]
