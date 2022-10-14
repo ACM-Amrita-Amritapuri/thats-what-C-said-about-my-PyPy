@@ -1,16 +1,10 @@
-num = 29
 
+a = 5
+b = 6
+c = 7
 
-flag = False
+s = (a + b + c) / 2
 
-if num > 1:
-    for i in range(2, num):
-        if (num % i) == 0:
-            flag = True
-            break
-
-if flag:
-    print(num, "is not a prime number")
-else:
-    print(num, "is a prime number")
-    
+# calculate the area
+area = (s*(s-a)*(s-b)*(s-c)) ** 0.5
+    print('The area of the triangle =' %area)
