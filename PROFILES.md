@@ -20,3 +20,17 @@
 - [Linkedin](www.linkedin.com/in/devakrishna-sanil-kumar-326b5a227)
 - [GitHub](https://github.com/Devakrishna-Sanil-Kumar)
 
+### Saumy Shukla
+- [Instagram](https://www.instagram.com/saumyxshukla/)
+- [Linkedin](https://www.linkedin.com/in/saumy-shukla-211a25240/)
+- [GitHub](https://github.com/saumy4854)
+
+### Lucas Carvalho
+- [Instagram](https://www.instagram.com/luscasoc/)
+- [Linkedin](https://www.linkedin.com/in/lucas-oliveirac/)
+- [GitHub](https://github.com/lucasocarvalhos)
+
+### Ruthvik Kanukunta
+- [Instagram](https://www.instagram.com/jonny_.blaze._/)
+- [Linkedin](https://www.linkedin.com/in/ruthvik-kanukunta-7b3a62212/)
+- [Github](https://github.com/Ruthvik2127)
