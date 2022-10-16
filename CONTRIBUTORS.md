@@ -68,6 +68,11 @@
 -Bio: Third Year Computer Science Student. love to solve puzzles and do coding while listening to music.
 -Github: [Boudhik-Shaj](https://github.com/Boudhik-Shaj)
 
+### Name: [Shashwat Raj](https://www.linkedin.com/in/rajshashwat/)
+- Place: Jamshedpur, Jharkhand
+- Bio: First Year Computer Science Student, persuing MCA. Love to work with Python.
+- Github: [CodeToCore](https://github.com/CodeToCore)
+
 #### Name: [Achyut M Sharma](https://www.linkedin.com/in/achyutmsharma/)
 - Place: Kottayam, Kerala
 - Bio: MCA first year, Aspiring programmer and web dev
