@@ -63,3 +63,8 @@
 -Place: Ernakulam, Kerala
 -Bio: Third Year Computer Science Student. love to solve puzzles and do coding while listening to music.
 -Github: [Boudhik-Shaj](https://github.com/Boudhik-Shaj)
+
+#### Name: [Achyut M Sharma](https://www.linkedin.com/in/achyutmsharma/)
+- Place: Kottayam, Kerala
+- Bio: MCA first year, Aspiring programmer and web dev
+- GitHub: [MinorMist](https://github.com/minormist)
