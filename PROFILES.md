@@ -30,6 +30,10 @@
 - [Linkedin](https://www.linkedin.com/in/ananthakrishnan-s-41a820249/)
 - [GitHub](https://github.com/God-Aks)
 
+### Asifur Rahman
+- [Github](https://github.com/asifurrahmanpial)
+- [Linkedin](https://www.linkedin.com/in/asifurrahmanpial/)
+
 ### Lucas Carvalho
 - [Instagram](https://www.instagram.com/luscasoc/)
 - [Linkedin](https://www.linkedin.com/in/lucas-oliveirac/)
@@ -40,3 +44,7 @@
 - [Linkedin](https://www.linkedin.com/in/ruthvik-kanukunta-7b3a62212/)
 - [Github](https://github.com/Ruthvik2127)
 
+### Shashwat Raj
+- [Instagram](https://www.instagram.com/shashwat131/)
+- [Linkedin](https://www.linkedin.com/in/rajshashwat/)
+- [Github](https://github.com/CodeToCore)

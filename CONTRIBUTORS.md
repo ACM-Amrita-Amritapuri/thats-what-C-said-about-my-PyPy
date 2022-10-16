@@ -18,7 +18,6 @@
 - Bio: Second Year B.Tech. CSE from AITR-Indore, love frontend and gonna pursue web development in future
 - GitHub: [aayushhehe]([GitHub link](https://github.com/aayushhehe))
 
-
 #### Name: [Devakrishna Sanil Kumar](www.linkedin.com/in/devakrishna-sanil-kumar-326b5a227)
 - Place: Kottayam, Kerala
 - Bio: Third Year B.Tech Computer Science A.I. Student, 
@@ -69,3 +68,7 @@
 -Bio: Third Year Computer Science Student. love to solve puzzles and do coding while listening to music.
 -Github: [Boudhik-Shaj](https://github.com/Boudhik-Shaj)
 
+#### Name: [Achyut M Sharma](https://www.linkedin.com/in/achyutmsharma/)
+- Place: Kottayam, Kerala
+- Bio: MCA first year, Aspiring programmer and web dev
+- GitHub: [MinorMist](https://github.com/minormist)
