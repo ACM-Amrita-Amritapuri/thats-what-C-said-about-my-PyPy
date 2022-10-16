@@ -25,6 +25,11 @@
 - [Linkedin](https://www.linkedin.com/in/saumy-shukla-211a25240/)
 - [GitHub](https://github.com/saumy4854)
 
+### Ananthakrishnan S
+- [Instagram](https://www.instagram.com/god_aks_meh/)
+- [Linkedin](https://www.linkedin.com/in/ananthakrishnan-s-41a820249/)
+- [GitHub](https://github.com/God-Aks)
+
 ### Asifur Rahman
 - [Github](https://github.com/asifurrahmanpial)
 - [Linkedin](https://www.linkedin.com/in/asifurrahmanpial/)
