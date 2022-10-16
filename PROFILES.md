@@ -34,3 +34,8 @@
 - [Instagram](https://www.instagram.com/jonny_.blaze._/)
 - [Linkedin](https://www.linkedin.com/in/ruthvik-kanukunta-7b3a62212/)
 - [Github](https://github.com/Ruthvik2127)
+
+### Shashwat Raj
+- [Instagram](https://www.instagram.com/shashwat131/)
+- [Linkedin](https://www.linkedin.com/in/rajshashwat/)
+- [Github](https://github.com/CodeToCore)
