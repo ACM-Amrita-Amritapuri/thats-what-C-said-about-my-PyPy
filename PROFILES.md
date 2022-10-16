@@ -25,6 +25,10 @@
 - [Linkedin](https://www.linkedin.com/in/saumy-shukla-211a25240/)
 - [GitHub](https://github.com/saumy4854)
 
+### Asifur Rahman
+- [Github](https://github.com/asifurrahmanpial)
+- [Linkedin](https://www.linkedin.com/in/asifurrahmanpial/)
+
 ### Lucas Carvalho
 - [Instagram](https://www.instagram.com/luscasoc/)
 - [Linkedin](https://www.linkedin.com/in/lucas-oliveirac/)
