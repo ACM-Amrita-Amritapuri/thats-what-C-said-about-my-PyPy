@@ -18,7 +18,6 @@
 - Bio: Second Year B.Tech. CSE from AITR-Indore, love frontend and gonna pursue web development in future
 - GitHub: [aayushhehe]([GitHub link](https://github.com/aayushhehe))
 
-
 #### Name: [Devakrishna Sanil Kumar](www.linkedin.com/in/devakrishna-sanil-kumar-326b5a227)
 - Place: Kottayam, Kerala
 - Bio: Third Year B.Tech Computer Science A.I. Student, 
@@ -44,6 +43,11 @@
 - Bio: Second year B.Tech Electrical & Computer Engineering student. I like mathematics , movies, chess, badminton , problem solving etc.
 - GitHub: [saumy4854](https://github.com/saumy4854)
 
+#### Name: [Ananthakrishnan S](https://www.linkedin.com/in/ananthakrishnan-s-41a820249)
+- Place: Thrissur,Kerala
+- Bio: Second Year CSE_AI Student . Love to create programs for automating simple day to day tasks and also love animals
+- GitHub: [God-Aks](https://github.com/God-Aks)
+
 #### Name: [Lucas Carvalho](https://www.linkedin.com/in/lucas-oliveirac/)
 - Place: Aracaju, Sergipe, Brasil
 - Bio: Chemical Engineer and Data Scientist focused on studying Deep Learning. I like to read good books and play chess.
@@ -68,3 +72,8 @@
 - Place: Jamshedpur, Jharkhand
 - Bio: First Year Computer Science Student, persuing MCA. Love to work with Python.
 - Github: [CodeToCore](https://github.com/CodeToCore)
+
+#### Name: [Achyut M Sharma](https://www.linkedin.com/in/achyutmsharma/)
+- Place: Kottayam, Kerala
+- Bio: MCA first year, Aspiring programmer and web dev
+- GitHub: [MinorMist](https://github.com/minormist)
