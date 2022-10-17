@@ -77,3 +77,8 @@
 - Place: Kottayam, Kerala
 - Bio: MCA first year, Aspiring programmer and web dev
 - GitHub: [MinorMist](https://github.com/minormist)
+
+#### Name: [Dhanush Krishna R](https://www.linkedin.com/in/dkr14/)
+- Place: Palakkad, Kerala
+- Bio: Third Year B.Tech Computer Science (AI) Student.
+- GitHub: [dk14-git](https://github.com/dk14-git)
