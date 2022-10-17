@@ -48,3 +48,8 @@
 - [Instagram](https://www.instagram.com/shashwat131/)
 - [Linkedin](https://www.linkedin.com/in/rajshashwat/)
 - [Github](https://github.com/CodeToCore)
+
+### Dhanush Krishna R
+- [Instagram](https://www.instagram.com/dhanush.in_14/)
+- [Linkedin](https://www.linkedin.com/in/dkr14/)
+- [Github](https://github.com/dk14-git)
