@@ -53,8 +53,3 @@
 - [Instagram](https://www.instagram.com/dhanush.in_14/)
 - [Linkedin](https://www.linkedin.com/in/dkr14/)
 - [Github](https://github.com/dk14-git)
-
-### Akhil S Kumar
-- [Instagram](https://www.instagram.com/_.akhil.sk._/)
-- [Linkedin](https://www.linkedin.com/in/imakhilskumar/)
-- [Github](https://github.com/akhil-s-kumar)

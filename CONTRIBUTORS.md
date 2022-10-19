@@ -83,7 +83,3 @@
 - Bio: Third Year B.Tech Computer Science (AI) Student.
 - GitHub: [dk14-git](https://github.com/dk14-git)
 
-#### Name: [Akhil S Kumar](https://www.linkedin.com/in/imakhilskumar/)
-- Place: Thiruvananthapuram, Kerala
-- Bio: Third Year B.Tech Electronics and Computer Engineering Student.
-- GitHub: [IamAkhilSKumar](https://github.com/akhil-s-kumar)
