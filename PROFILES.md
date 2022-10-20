@@ -58,3 +58,8 @@
 - [Instagram](https://www.instagram.com/_.akhil.sk._/)
 - [Linkedin](https://www.linkedin.com/in/imakhilskumar/)
 - [Github](https://github.com/akhil-s-kumar)
+
+### Amal K Reji
+- [Instagram](https://www.instagram.com/_a.mal___/)
+- [Linkedin](https://www.linkedin.com/in/amal-k-reji-056471190/)
+- [Github](https://github.com/amalkreji12)

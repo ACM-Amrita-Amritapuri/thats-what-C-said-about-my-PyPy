@@ -87,3 +87,8 @@
 - Place: Thiruvananthapuram, Kerala
 - Bio: Third Year B.Tech Electronics and Computer Engineering Student.
 - GitHub: [IamAkhilSKumar](https://github.com/akhil-s-kumar)
+
+#### Name: [Amal K Reji](https://www.linkedin.com/in/amal-k-reji-056471190/)
+- Place: Kottayam, Kerala
+- Bio: Third Year B.Tech Electronics and Computer Engineering Student.
+- GitHub: [Amal K Reji](https://github.com/amalkreji12)
