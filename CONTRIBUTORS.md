@@ -97,3 +97,8 @@
 - Place: Thrissur, Kerala
 - Bio: Third Year BCA Student.
 - GitHub: [Skad0sh](https://github.com/Skad0sh)
+
+#### Name: [Sarath S](www.linkedin.com/in/sarathsonline)
+- Place: Ernakulam, Kerala
+- Bio: Third Year B.Tech Mechanical Engineering Student with an eye for creativity.
+- GitHub: [Sarath-s-01](https://github.com/Sarath-s-01)
