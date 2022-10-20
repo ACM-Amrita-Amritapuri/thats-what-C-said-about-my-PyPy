@@ -92,3 +92,8 @@
 - Place: Kottayam, Kerala
 - Bio: Third Year B.Tech Electronics and Computer Engineering Student.
 - GitHub: [Amal K Reji](https://github.com/amalkreji12)
+
+#### Name: [Rahul Sunder](https://www.linkedin.com/in/rahul-sunder-89064523a/)
+- Place: Thrissur, Kerala
+- Bio: Third Year BCA Student.
+- GitHub: [Skad0sh](https://github.com/Skad0sh)
