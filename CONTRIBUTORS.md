@@ -92,3 +92,8 @@
 - Place: Kottayam, Kerala
 - Bio: Third Year B.Tech Electronics and Computer Engineering Student.
 - GitHub: [Amal K Reji](https://github.com/amalkreji12)
+
+#### Name: [Sarath S](www.linkedin.com/in/sarathsonline)
+- Place: Ernakulam, Kerala
+- Bio: Third Year B.Tech Mechanical Engineering Student with an eye for creativity.
+- GitHub: [Sarath-s-01](https://github.com/Sarath-s-01)
