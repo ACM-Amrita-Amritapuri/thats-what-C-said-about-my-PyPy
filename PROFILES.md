@@ -63,3 +63,8 @@
 - [Instagram](https://www.instagram.com/_a.mal___/)
 - [Linkedin](https://www.linkedin.com/in/amal-k-reji-056471190/)
 - [Github](https://github.com/amalkreji12)
+
+### Rahul Sunder
+- [Instagram](https://www.instagram.com/sk4d00.sh/)
+- [Linkedin](https://www.linkedin.com/in/rahul-sunder-89064523a/)
+- [GitHub](https://github.com/Skad0sh)
