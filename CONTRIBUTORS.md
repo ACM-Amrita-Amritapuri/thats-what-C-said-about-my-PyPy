@@ -63,10 +63,10 @@
 - Bio: Third year B.Tech Computer Science A.I. Student, loves intelligent technologies 
 - GitHub: [Sudi050](https://github.com/sudi050/)
 
-### Name: [Boudhik Shaj] (https://www.linkedin.com/in/boudhik-shaj-098a3b20b/)
--Place: Ernakulam, Kerala
--Bio: Third Year Computer Science Student. love to solve puzzles and do coding while listening to music.
--Github: [Boudhik-Shaj](https://github.com/Boudhik-Shaj)
+#### Name: [Boudhik Shaj](https://www.linkedin.com/in/boudhik-shaj-098a3b20b/)
+- Place: Ernakulam, Kerala
+- Bio: Third Year Computer Science Student. love to solve puzzles and do coding while listening to music.
+- Github: [Boudhik-Shaj](https://github.com/Boudhik-Shaj)
 
 ### Name: [Shashwat Raj](https://www.linkedin.com/in/rajshashwat/)
 - Place: Jamshedpur, Jharkhand
