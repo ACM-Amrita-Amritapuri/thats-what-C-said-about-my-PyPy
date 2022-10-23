@@ -1,0 +1,7 @@
+a=int(input("Enter the coefficient of X²"))
+b=int(input("Enter the coefficient of X"))
+c=int(input("Enter constant"))
+d=((b**2-4*a*c)**(1/2)/2*a)
+x=-b+d
+y=-b-d
+print("Root of the given equation is ",x,"and",y)
