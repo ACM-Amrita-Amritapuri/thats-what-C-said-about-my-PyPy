@@ -1,0 +1,26 @@
+#program to find the distance travelled by a vehicle in t seconds by the formuls d=ut+(at^2)/2 , where-
+#u is intitial velocity
+#a is the acceleration
+#u and a is user input
+
+import java.util.Scanner;
+public class Distance
+{
+    public static void main(String[] args)
+    {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter the time interval");
+        int ti = scan.nextInt();
+        System.out.println("Enter the limit to repeat");
+        int n= scan.nextInt();
+        double d;
+        for(int t=1;t<=n;t=t+ti)
+        {
+            System.out.println("Enter u and a");
+            int u = scan.nextInt();
+            int a = scan.nextInt();
+            d=u*t+1/2*a*t*t;
+            System.out.println("Distance= "+d);
+        }
+    }
+}
