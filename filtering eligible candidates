@@ -1,0 +1,24 @@
+
+import java.util.Scanner;
+public class Admission
+{
+    public static void main (String[] args)
+    {
+        double mathMarks, physicsMarks, chemMarks;
+        Scanner obj= new Scanner(System.in);
+        System.out.println("Enter number of candidates:");
+        int n=obj.nextInt();
+        for (int i=1;i<=n;i++)
+        {
+            System.out.println("Enter the candidates's name:");
+            String name=obj.next();
+            System.out.println("Enter maths, physics and chemistry marks:");
+            mathMarks= obj.nextDouble();
+            physicsMarks= obj.nextDouble();
+            chemMarks= obj.nextDouble();
+            double total= math+Marks+physicsMarks+chemMarks;
+            if((mathMarks>=60&& physicsMarks>=55&& chemMarks>=65&& total>=200)||(mathMarks + physicsMarks>=150))
+            System.out.println("Eligible candidate:"+name);
+        }
+    }
+}
