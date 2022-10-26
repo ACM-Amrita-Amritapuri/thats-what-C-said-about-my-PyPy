@@ -73,3 +73,8 @@
 - [Instagram](https://www.instagram.com/neeraja.exe/)
 - [Linkedin](https://www.linkedin.com/in/rneerajaanand/)
 - [GitHub](https://github.com/TheNeerajaAnand)
+
+### Abhay Das
+- [Instagram](https://www.instagram.com/abhayy02/)
+- [Linkedin](https://www.linkedin.com/in/abhayy02/)
+- [GitHub](https://github.com/abhayy02)
