@@ -53,3 +53,23 @@
 - [Instagram](https://www.instagram.com/dhanush.in_14/)
 - [Linkedin](https://www.linkedin.com/in/dkr14/)
 - [Github](https://github.com/dk14-git)
+
+### Akhil S Kumar
+- [Instagram](https://www.instagram.com/_.akhil.sk._/)
+- [Linkedin](https://www.linkedin.com/in/imakhilskumar/)
+- [Github](https://github.com/akhil-s-kumar)
+
+### Amal K Reji
+- [Instagram](https://www.instagram.com/_a.mal___/)
+- [Linkedin](https://www.linkedin.com/in/amal-k-reji-056471190/)
+- [Github](https://github.com/amalkreji12)
+
+### Rahul Sunder
+- [Instagram](https://www.instagram.com/sk4d00.sh/)
+- [Linkedin](https://www.linkedin.com/in/rahul-sunder-89064523a/)
+- [GitHub](https://github.com/Skad0sh)
+
+### R Neeraja Anand
+- [Instagram](https://www.instagram.com/neeraja.exe/)
+- [Linkedin](https://www.linkedin.com/in/rneerajaanand/)
+- [GitHub](https://github.com/TheNeerajaAnand)
