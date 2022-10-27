@@ -107,3 +107,8 @@
 - Place: Trivandrum, Kerala
 - Bio: Third Year B.Tech Computer Science Engineering Student with an eye for creativity.
 - GitHub: [TheNeerajaAnand](https://github.com/TheNeerajaAnand)
+
+#### Name: [Sanjay Rajesh](https://www.linkedin.com/in/sanjayrajesh/)
+- Place: Kollam, Kerala
+- Bio: MCA first year, loves to work on Java.
+- GitHub: [sanjayrajesh](https://github.com/sanjayrajesh)
