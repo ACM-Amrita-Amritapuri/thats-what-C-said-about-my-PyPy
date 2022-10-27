@@ -73,3 +73,17 @@
 - [Instagram](https://www.instagram.com/neeraja.exe/)
 - [Linkedin](https://www.linkedin.com/in/rneerajaanand/)
 - [GitHub](https://github.com/TheNeerajaAnand)
+
+### Abhay Das
+- [Instagram](https://www.instagram.com/abhayy02/)
+- [Linkedin](https://www.linkedin.com/in/abhayy02/)
+- [GitHub](https://github.com/abhayy02)
+
+### Vaishakh S Krishnan
+- [Instagram](https://www.instagram.com/vxishxkh_/)
+- [Linkedin](https://www.linkedin.com/in/vaishakh-krishnan-b24a651b4)
+- [GitHub](https://github.com/WildFire49)
+
+### Sanjay Rajesh
+- [Github](https://github.com/sanjayrajesh)
+- [Linkedin](https://www.linkedin.com/in/sanjayrajesh/)
