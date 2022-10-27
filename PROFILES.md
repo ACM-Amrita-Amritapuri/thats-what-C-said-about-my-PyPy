@@ -73,3 +73,7 @@
 - [Instagram](https://www.instagram.com/neeraja.exe/)
 - [Linkedin](https://www.linkedin.com/in/rneerajaanand/)
 - [GitHub](https://github.com/TheNeerajaAnand)
+
+### Sanjay Rajesh
+- [Github](https://github.com/sanjayrajesh)
+- [Linkedin](https://www.linkedin.com/in/sanjayrajesh/)
