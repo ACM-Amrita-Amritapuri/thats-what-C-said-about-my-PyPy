@@ -76,5 +76,9 @@
 
 ### Vaishakh S Krishnan
 - [Instagram](https://www.instagram.com/vxishxkh_/)
-- [Linkedin] (https://www.linkedin.com/in/vaishakh-krishnan-b24a651b4)
+- [Linkedin](https://www.linkedin.com/in/vaishakh-krishnan-b24a651b4)
 - [GitHub](https://github.com/WildFire49)
+
+### Sanjay Rajesh
+- [Github](https://github.com/sanjayrajesh)
+- [Linkedin](https://www.linkedin.com/in/sanjayrajesh/)
