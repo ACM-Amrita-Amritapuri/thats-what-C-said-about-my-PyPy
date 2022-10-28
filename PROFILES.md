@@ -87,3 +87,7 @@
 ### Sanjay Rajesh
 - [Github](https://github.com/sanjayrajesh)
 - [Linkedin](https://www.linkedin.com/in/sanjayrajesh/)
+
+### Shubhank Singhal
+- [Github](https://github.com/ShubhankSinghal)
+- [Linkedin](https://www.linkedin.com/in/shubhanksinghal/)
