@@ -112,3 +112,8 @@
 - Place: Kollam, Kerala
 - Bio: MCA first year, loves to work on Java.
 - GitHub: [sanjayrajesh](https://github.com/sanjayrajesh)
+
+### Name: [Amisha Verma](https://www.linkedin.com/in/amisha-verma2612/)
+- Place: Jamshedpur, Jharkhand
+- Bio: First year MCA student, enjoys coding in Python.
+- Github: [VermaAmisha](https://github.com/VermaAmisha)
