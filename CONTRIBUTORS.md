@@ -117,3 +117,8 @@
 - Place: Jaspur, Uttarakhand
 - Bio: B.Tech., 4th year. 
 - GitHub: [Shubhank Singhal](https://github.com/ShubhankSinghal)
+
+### Name: [Amisha Verma](https://www.linkedin.com/in/amisha-verma2612/)
+- Place: Jamshedpur, Jharkhand
+- Bio: First year MCA student, enjoys coding in Python.
+- Github: [VermaAmisha](https://github.com/VermaAmisha)
