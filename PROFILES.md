@@ -87,3 +87,8 @@
 ### Sanjay Rajesh
 - [Github](https://github.com/sanjayrajesh)
 - [Linkedin](https://www.linkedin.com/in/sanjayrajesh/)
+
+### Amisha Verma
+- [Instagram](https://www.instagram.com/amishaverma2612/)
+- [Linkedin](https://www.linkedin.com/in/amisha-verma2612/)
+- [Github](https://github.com/VermaAmisha)
