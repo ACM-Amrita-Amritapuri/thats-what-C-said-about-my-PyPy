@@ -1,0 +1,24 @@
+k=9e9
+q1=(1e-9)
+q2=5e-9
+E=[]
+X=[]
+
+import numpy as np
+a=np.linspace(0.05,0.2,1000)
+for x in a:
+    r1=x
+    r2=0.3-x
+    E1=(k*q1)/r1**2
+    E2=(k*q2)/r2**2
+    Etot=E1-E2
+    E.append(Etot)
+    X.append(x)
+    
+
+
+import matplotlib.pyplot as plt
+plt.plot(X,E)
+plt.xlabel("Value of x")
+plt.ylabel("Electric field")
+plt.show()
