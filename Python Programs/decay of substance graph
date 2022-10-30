@@ -1,0 +1,27 @@
+import numpy as np
+import matplotlib.pyplot as plt
+time_min=0
+N0=int(input("The initial number of nuclei: "))
+tau=float(input("Decay constant: "))
+delta_t=float(input("time step: "))
+time_max=float(input("Time to  end simulation: "))
+timestep=int(time_max/delta_t)
+
+nucleit=np.zeros(timestep)
+nucleit[0]=N0
+time=np.zeros(timestep)
+
+for i in range(timestep-1):
+    time[i+1]=time[i]+delta_t
+    nucleit[i+1]=nucleit[i]-(nucleit[i]/tau*delta_t)
+
+
+    
+plt.plot(time,N0*np.exp(-(time/tau)),"*")    
+plt.plot(time,nucleit)
+plt.legend
+plt.xlabel("time t")
+plt.ylabel("No of rafioactive nuclei")
+plt.title('Decay plotting')
+plt.grid()
+plt.show()
