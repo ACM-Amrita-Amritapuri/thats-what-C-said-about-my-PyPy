@@ -113,6 +113,11 @@
 - Bio: MCA first year, loves to work on Java.
 - GitHub: [sanjayrajesh](https://github.com/sanjayrajesh)
 
+#### Name: [Shubhank Singhal](https://www.linkedin.com/in/shubhanksinghal/)
+- Place: Jaspur, Uttarakhand
+- Bio: B.Tech., 4th year. 
+- GitHub: [Shubhank Singhal](https://github.com/ShubhankSinghal)
+
 ### Name: [Amisha Verma](https://www.linkedin.com/in/amisha-verma2612/)
 - Place: Jamshedpur, Jharkhand
 - Bio: First year MCA student, enjoys coding in Python.
