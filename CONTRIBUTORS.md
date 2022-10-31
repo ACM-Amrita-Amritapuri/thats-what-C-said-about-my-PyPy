@@ -122,3 +122,8 @@
 - Place: Jamshedpur, Jharkhand
 - Bio: First year MCA student, enjoys coding in Python.
 - Github: [VermaAmisha](https://github.com/VermaAmisha)
+
+### Name: [Siddharth Singh](https://www.linkedin.com/in/siddharth-singh-8219961b3/)
+- Place: Patna, Bihar
+- Bio: First year MCA student, enjoys coding in C++.
+- Github: [siddharth007-singh](https://github.com/siddharth007-singh)
