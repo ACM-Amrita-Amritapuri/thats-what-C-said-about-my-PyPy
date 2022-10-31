@@ -1,0 +1,14 @@
+import numpy as np
+from matplotlib import pyplot as plt
+x_start=-20
+x_end=20
+x_array=np.linspace(x_start,x_end,1001)
+y_array=np.sinc(x_array)
+
+plt.plot(x_array,y_array)
+plt.xlabel("x")
+plt.ylabel("sinc x")
+plt.title("x vs sinc x")
+plt.legend()
+
+    
