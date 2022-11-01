@@ -96,3 +96,7 @@
 - [Instagram](https://www.instagram.com/amishaverma2612/)
 - [Linkedin](https://www.linkedin.com/in/amisha-verma2612/)
 - [Github](https://github.com/VermaAmisha)
+
+### Siddharth Singh
+- [Linkedin](https://www.linkedin.com/in/siddharth-singh-8219961b3/)
+- [Github](https://github.com/siddharth007-singh)
