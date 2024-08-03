@@ -1,3 +1,7 @@
+#### Name: [AADARSH NAIR](200anxy.is-a.dev)
+ - Place: Melbourne, Australia
+ - Bio: High School student, enjoys coding in Python and C#
+ - Github: [200anxy](https://github.com/200anxy/)
 #### Name: [ABY STALIN](https://www.linkedin.com/in/aby-stalin/)
 - Place: Trivandrum,Kerala
 - Bio: third year B.Tech Computer Science A.I. Student, in love with photographing emotions rather than people
